@@ -1,0 +1,21 @@
+* {
+font-family:"Times New Roman", sans-serif;
+}
+.header{
+    background-color:lightblue;
+    position:fixed;
+    width: 100%;
+}
+.navbar{
+text-align: right;
+display: inline; 
+
+
+}
+ul{
+list-style-type: none;
+display: inline;
+}
+.nav-item{
+display: inline;
+text-align:right;
