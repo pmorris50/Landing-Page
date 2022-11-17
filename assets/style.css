@@ -1,21 +1,8 @@
 * {
 font-family:"Times New Roman", sans-serif;
+display: flexbox;
 }
-.header{
-    background-color:lightblue;
-    position:fixed;
-    width: 100%;
+ #hover :hover{
+    background-color: lightpink;
+    color:black;
 }
-.navbar{
-text-align: right;
-display: inline; 
-
-
-}
-ul{
-list-style-type: none;
-display: inline;
-}
-.nav-item{
-display: inline;
-text-align:right;
